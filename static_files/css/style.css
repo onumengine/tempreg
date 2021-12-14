@@ -9,11 +9,6 @@
     --secondary-color-opacity: #80630000; 
 }
 
-*, ** {
-    margin: 0;
-    box-sizing: border-box;
-}
-
 body {
     background-color: var(--tertiary-color);
 }
